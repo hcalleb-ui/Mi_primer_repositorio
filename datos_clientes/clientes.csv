@@ -1,0 +1,16 @@
+# 👥 Sistema de Gestión de Clientes  
+Documento README – Información General
+
+## 📝 Descripción del Proyecto
+Este proyecto corresponde a un **Sistema de Gestión de Clientes**, orientado a registrar, administrar y mantener organizada la información de los clientes de una empresa. Su finalidad es facilitar el acceso rápido a datos, mejorar la comunicación con los usuarios y optimizar los procesos comerciales o administrativos.
+
+## 🎯 Objetivos del Sistema
+- Registrar nuevos clientes con información completa y organizada.  
+- Mantener un historial actualizado de cada cliente.  
+- Permitir búsquedas rápidas y eficientes.  
+- Facilitar la edición de datos sin afectar la integridad del sistema.  
+- Proveer reportes básicos para análisis de clientes.
+
+## 🧱 Estructura del Proyecto
+El proyecto se organiza de la siguiente manera:
+
