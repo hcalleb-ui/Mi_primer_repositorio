@@ -1,0 +1,16 @@
+# 📊 Sistema de Gestión de Ventas  
+Documento README – Información General
+
+## 📝 Descripción del Proyecto
+Este proyecto corresponde a un **Sistema de Gestión de Ventas**, diseñado para registrar, administrar y analizar información relacionada con productos, clientes y transacciones comerciales. Su objetivo principal es facilitar el control de ventas y mejorar la toma de decisiones mediante datos claros y organizados.
+
+## 🎯 Objetivos del Sistema
+- Registrar productos disponibles para la venta.  
+- Controlar ventas realizadas por fecha, cliente o producto.  
+- Generar reportes de ingresos totales.  
+- Optimizar el proceso de consulta de información.  
+- Proveer una herramienta simple, clara y accesible para el usuario final.
+
+## 🧱 Estructura del Proyecto
+El proyecto se organiza de la siguiente manera:
+
